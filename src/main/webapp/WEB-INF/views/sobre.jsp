@@ -53,12 +53,12 @@
             
 
             <p>Link do enunciado completo em pdf:  
-            	<a href="https://github.com/marcelogmoura/projetoFinal01Coti/" 
+            	<a href="https://github.com/marcelogmoura/projetoFinal01Coti/blob/main/projetoFinal01.pdf" 
             		target="_blank"><i class="bi bi-file-earmark-pdf"></i></a></p>
             
             
             <p>Repositório no GitHub: 
-            	<a href="https://github.com/marcelogmoura/projetoFinal01Coti/blob/main/projetoFinal01.pdf" 
+            	<a href="https://github.com/marcelogmoura/projetoFinal01Coti/" 
             		target="_blank"><i class="bi bi-github"></i></a></p>
             
             
