@@ -39,7 +39,7 @@
         <div class="card p-4 custom-bg text-center">
 
             <h2 class="text-center mb-4">. Sobre . </h2>
-            <p class="text-center">Projeto Final 01.</p>
+            <p class="text-center">Breve resumo</p>
                    
             <p>
         		- Esse sistema foi desenvolvido para o projeto Final 01/02 do curso Java WebDeveloper da Coti Informática.
@@ -51,9 +51,16 @@
             </p>
             <p>
             
-            <p> O enunciado completo encontra-se aqui.
-            </p>
-     
+
+            <p>Link do enunciado completo em pdf:  
+            	<a href="https://github.com/marcelogmoura/projetoFinal01Coti/" 
+            		target="_blank"><i class="bi bi-file-earmark-pdf"></i></a></p>
+            
+            
+            <p>Repositório no GitHub: 
+            	<a href="https://github.com/marcelogmoura/projetoFinal01Coti/blob/main/projetoFinal01.pdf" 
+            		target="_blank"><i class="bi bi-github"></i></a></p>
+            
             
 
         </div>
