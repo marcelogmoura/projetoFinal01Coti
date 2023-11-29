@@ -35,7 +35,7 @@ public class ContatoRepository {
 	
 	public void update(Contato contato) throws Exception {
 		
-		String sql = "update contato set nome=?, email=?, telefone=?, where idcontato=? ";
+		String sql = "update contato set nome=?, email=?, telefone=? where idcontato=? ";
 		
 		Object[] params = {
 				contato.getNome(),

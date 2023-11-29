@@ -76,7 +76,7 @@
                     <input type="text" class="form-control" id="telefone" name="telefone" placeholder="Telefone do contato" value="${telefone}">
                 </div>
                 <div class="d-grid">
-                    <button type="submit" class="btn btn-light">Salvar</button>
+                    <button type="submit" class="btn btn-light"><i class="bi bi-arrow-right-circle"></i> Salvar</button>
                 </div>
             </form>
         </div>
